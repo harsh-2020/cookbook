@@ -8,6 +8,7 @@ A notebook of Jupyter notebook goodies that I use mostly on Binder. Click the ba
    - This [README.md](README.md) file is formatted with Markdown as well
 1. [Python](https://github.com/dbrunton/cookbook/blob/master/Python.ipynb) is a programming language with lots of modules I can install, like:
    - [Pandas](https://github.com/dbrunton/cookbook/blob/master/Pandas.ipynb) are basically python spreadsheets
+   - [NumPy](https://numpy.org/doc/stable/user/whatisnumpy.html) to perform fast numeric operations
    - [Drawing](https://github.com/dbrunton/cookbook/blob/master/Turtle%20Drawing.ipynb) is a fun way to learn some basics
    - [Widgets](https://github.com/dbrunton/cookbook/blob/master/Widgets.ipynb) are little UI components
    - Widgets can be combined with [other stuff](https://github.com/dbrunton/cookbook/blob/master/Web%20Scraping%20and%20Widgets.ipynb) as well.
